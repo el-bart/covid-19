@@ -6,14 +6,16 @@ module mask()
 
 module filter()
 {
-  translate([-360, 660, -2.5])
-    import("v5_D_filter.stl");
+  scale(44.0/45.40)
+    translate([-360, 660, -2.5])
+      import("v5_D_filter.stl");
 }
 
 module lock()
 {
-  translate([-420, 660, 0])
-    import("v5_D_lock.stl");
+  scale(44.0/45.40)
+    translate([-420, 660, 0])
+      import("v5_D_lock.stl");
 }
 
 module all()
