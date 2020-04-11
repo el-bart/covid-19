@@ -35,4 +35,4 @@ module all()
       clip();
 }
 
-%all();
+all();
