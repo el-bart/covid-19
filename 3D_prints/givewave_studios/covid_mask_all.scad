@@ -31,7 +31,7 @@ module all()
   cap();
   grid();
   for(dy=[0:2])    // 2 neede + 1 spare
-    translate([0, dy*6, 0])
+    translate([0, -2+dy*10, 0])
       clip();
 }
 
