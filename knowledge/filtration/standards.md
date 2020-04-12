@@ -10,3 +10,14 @@ HEPA (for particle size 0.3µm):
  * H13 or better
  * U15 or better
 https://en.wikipedia.org/wiki/HEPA
+
+BFE:
+Bacterial Filtration Efficiency [%] for 3 microns
+ * 100%-(bacteria_out)/(bacteria_in)
+https://en.wikipedia.org/wiki/Bacterial_Filtration_Efficiency
+eg. 3-layer surgical mask has BFE ~ 98%.
+
+PFE:
+Particle Filtration Efficiency [%] for 0.1 microns (typical size of a virus)
+ * 100%-(particles_out)/(particles_in)
+https://www.thewackyduo.com/2020/02/coronavirus-are-masks-effective.html
