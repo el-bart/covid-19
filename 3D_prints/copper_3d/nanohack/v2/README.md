@@ -4,6 +4,10 @@ https://copper3d.com/hackthepandemic/
 
 below notes are all c&p from the page, as of committing this file.
 
+IMHO this model (compared to v1) is acceptable, though not perfect.
+it did not fit me very well.
+
+
 ## about the filtration system of nanohack
 
 NanoHack was conceived as an active/antimicrobial 3D printed face mask manufactured with active materials. We will use active filters of non-woven polypropylene (3 layers) embedded in nanocopper to get an extra protection against microorganisms.

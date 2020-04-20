@@ -1,5 +1,8 @@
 # NanoHack: COVID-19 Face Mask
 
+don't bother - not worth it.
+use other model, instead.
+
 https://www.thingiverse.com/thing:4238123
 
 https://copper3d.com/hackthepandemic/
